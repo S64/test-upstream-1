@@ -11,3 +11,7 @@ one
 two  
 three
 ***
+ichi  
+ni  
+san
+***
