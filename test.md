@@ -1,5 +1,7 @@
 ***
-oho
+foo  
+bar  
+baz
 ***
 hoge  
 fuga  
